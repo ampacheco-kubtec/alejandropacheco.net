@@ -44,7 +44,7 @@ html {
   display: inline-block;
   margin: 0;
   padding: 16px 0;
-  color: #f20;
+  color: green;
   font-size: 4em;
   line-height: 1;
   font-weight: bold;
@@ -82,7 +82,7 @@ html {
 }
 
 .masterpiece-link:hover {
-  color: #f20;
+  color: green;
 }
 
 .masterpiece-link:before,
